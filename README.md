@@ -1,4 +1,4 @@
-# basic-js
+# javascript
 Basic javascript tutorial from FrontEnd Masters
 
-[Frontend Masters Course] (https://btholt.github.io/intro-to-web-dev-v2/programming-fundamentals)
+[Frontend Masters Course] (https://frontendmasters.com/courses/javascript-basics/kyle-s-work/)
